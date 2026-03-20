@@ -71,8 +71,6 @@
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=enzocipher&layout=compact&theme=github_dark&border_color=a855f7&title_color=a855f7&text_color=c9d1d9&hide_border=false&locale=es)
 
-[![Trofeos](https://github-profile-trophy.vercel.app/?username=enzocipher&theme=darkhub&column=6&margin-w=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 <img src="https://raw.githubusercontent.com/enzocipher/enzocipher/output/github-contribution-grid-snake-dark.svg" width="100%"/>
