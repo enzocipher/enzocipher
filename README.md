@@ -18,6 +18,10 @@
 
 ## `> cat sobre_mi.txt`
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3b0764,100:6d28d9&height=60&section=header&text=Blue%20Team%20%2F%20Defensiva&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</div>
+
 ```bash
 ┌──[enzocipher@doronOS]─[~]
 └─$ cat sobre_mi.txt
@@ -27,6 +31,22 @@
     ├── Competencias CTF (hackrocks, HackTheBox)
     └── Construcción de herramientas en Rust y Python
 ```
+
+<div align="center">
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=a855f7)
+![Elastic](https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3b0764?style=for-the-badge&logoColor=a855f7)
+![Velociraptor](https://img.shields.io/badge/Velociraptor-3b0764?style=for-the-badge&logo=verizon&logoColor=a855f7)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+**Certificaciones**
+
+[![CRTA](https://img.shields.io/badge/CRTA-Certified_Red_Team_Analyst-a855f7?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
+[![CJCA](https://img.shields.io/badge/CJCA-Certified_Junior_Cybersecurity_Analyst-6d28d9?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
+[![CDSA](https://img.shields.io/badge/CDSA-Certified_Defensive_Security_Analyst-3b0764?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6d28d9&height=2&section=header" width="100%"/>
 
