@@ -1,14 +1,8 @@
-<!-- HEADER -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,50:6d28d9,100:a855f7&height=200&section=header&text=FAVIO&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=enzocipher&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+</div>
 
-``` powershell
-███████╗  █████╗  ██╗   ██╗ ██╗  ██████╗
-██╔════╝ ██╔══██╗ ██║   ██║ ██║ ██╔═══██╗
-█████╗   ███████║ ██║   ██║ ██║ ██║   ██║
-██╔══╝   ██╔══██║ ╚██╗ ██╔╝ ██║ ██║   ██║
-██║      ██║  ██║  ╚████╔╝  ██║ ╚██████╔╝
-╚═╝      ╚═╝  ╚═╝   ╚═══╝   ╚═╝  ╚═════╝
-```
+<div align="center">
 
 **`$ whoami`** → Favio · Estudiante de Ingeniería de Ciberseguridad @ UPC · Perú
 
@@ -18,23 +12,21 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6d28d9&height=2&section=header" width="100%"/>
 
 ## `> cat sobre_mi.txt`
 
 ```bash
 ┌──[enzocipher@doronOS]─[~]
 └─$ cat sobre_mi.txt
-
   Estudiante de ingeniería de ciberseguridad enfocado en seguridad defensiva. 
-
   Enfoque actual:
     ├── Utilizar diferentes SIEM
     ├── Competencias CTF (hackrocks, HackTheBox)
     └── Construcción de herramientas en Rust y Python
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6d28d9&height=2&section=header" width="100%"/>
 
 ## `> ls habilidades/`
 
@@ -54,7 +46,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6d28d9&height=2&section=header" width="100%"/>
 
 ## `> ls -la repos/ | grep pinned`
 
@@ -65,7 +57,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6d28d9&height=2&section=header" width="100%"/>
 
 ## `> htop --user=enzocipher`
 
@@ -77,24 +69,27 @@
 
 </div>
 
----
+<img src="https://github.com/enzocipher/enzocipher/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6d28d9&height=2&section=header" width="100%"/>
 
 ## `> Habilidadn't de analista de Ciberseguridad`
 
 ```bash
 ┌──[enzocipher@doronOS]─[~]
 └─$ micro explicación_tecnica.evtx
-
       Favio sacrifica 5 años de su vida en la universidad a cambio de poder analizar los
       logs a mayor detalle y no saltarse ningun masquerading con letras pequeñas.
 ```
+
 > Nadie puede igualar está habilidad a excepción de [moltengama](https://github.com/moltengama) claro está.
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/dd/92/ab/dd92ab2e033547ef2425b911e0d83c3f.gif" width="480" alt="707"/>
+  <img src="https://i.pinimg.com/originals/dd/92/ab/dd92ab2e033547ef2425b911e0d83c3f.gif" width="480" alt="707"/>
 
 *Huh???? · [enzocipher.github.io](https://enzocipher.github.io)*
+</div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,50:6d28d9,100:a855f7&height=100&section=footer" width="100%"/>
 </div>
