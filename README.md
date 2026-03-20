@@ -4,6 +4,8 @@
 
 <div align="center">
 
+![Visitas](https://komarev.com/ghpvc/?username=enzocipher&color=a855f7&style=flat-square&label=visitas)
+
 **`$ whoami`** → Favio · Estudiante de Ingeniería de Ciberseguridad @ UPC · Perú
 
 [![Portfolio](https://img.shields.io/badge/Portafolio-enzocipher.github.io-0d1117?style=flat-square&logo=github&logoColor=a855f7)](https://enzocipher.github.io)
@@ -63,13 +65,17 @@
 
 <div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=enzocipher&theme=dark&border=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&locale=es)](https://git.io/streak-stats)
+
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=enzocipher&show_icons=true&theme=github_dark&border_color=a855f7&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&hide_border=false&count_private=true&locale=es)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=enzocipher&layout=compact&theme=github_dark&border_color=a855f7&title_color=a855f7&text_color=c9d1d9&hide_border=false&locale=es)
 
+[![Trofeos](https://github-profile-trophy.vercel.app/?username=enzocipher&theme=darkhub&column=6&margin-w=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
-<img src="https://github.com/enzocipher/enzocipher/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/enzocipher/enzocipher/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6d28d9&height=2&section=header" width="100%"/>
 
