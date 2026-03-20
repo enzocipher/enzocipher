@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-```
+``` powershell
 ███████╗  █████╗  ██╗   ██╗ ██╗  ██████╗
 ██╔════╝ ██╔══██╗ ██║   ██║ ██║ ██╔═══██╗
 █████╗   ███████║ ██║   ██║ ██║ ██║   ██║
@@ -22,7 +22,7 @@
 
 ## `> cat sobre_mi.txt`
 
-```
+```bash
 ┌──[enzocipher@doronOS]─[~]
 └─$ cat sobre_mi.txt
 
@@ -83,7 +83,7 @@
 
 ## `> Habilidadn't de analista de Ciberseguridad`
 
-```
+```bash
 ┌──[enzocipher@doronOS]─[~]
 └─$ micro explicación_tecnica.evtx
 
