@@ -43,8 +43,8 @@
 **Certificaciones**
 
 [![CRTA](https://img.shields.io/badge/CRTA-Certified_Red_Team_Analyst-a855f7?style=for-the-badge&logo=hackthebox&logoColor=white)](https://labs.cyberwarfare.live/credential/achievement/69572216c693d19893c34c47)
-[![CJCA](https://img.shields.io/badge/CJCA-Certified_Junior_Cybersecurity_Analyst-6d28d9?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
-[![CDSA](https://img.shields.io/badge/CDSA-Certified_Defensive_Security_Analyst-3b0764?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
+[![CJCA](https://img.shields.io/badge/CJCA-Certified_Junior_Cybersecurity_Analyst-6d28d9?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.credly.com/badges/dc4b2b23-06b5-475b-9fa0-5d49f13ce532/linked_in_profile)
+[![CDSA](https://img.shields.io/badge/CDSA-Certified_Defensive_Security_Analyst-3b0764?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.credly.com/badges/a157334b-79aa-4e46-9860-40a9fd4ba365/linked_in_profile)
 
 </div>
 
