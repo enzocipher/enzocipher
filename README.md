@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,50:6d28d9,100:a855f7&height=200&section=header&text=FAVIO&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=enzocipher&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 </div>
@@ -74,8 +75,8 @@
 
 <div align="center">
 
-[![minimum_path_finder](https://github-readme-stats.vercel.app/api/pin/?username=enzocipher&repo=minimum_path_finder&theme=github_dark&border_color=a855f7&title_color=a855f7&icon_color=a855f7)](https://github.com/enzocipher/minimum_path_finder)
-[![Keylogger_With_Rust](https://github-readme-stats.vercel.app/api/pin/?username=enzocipher&repo=Keylogger_With_Rust&theme=github_dark&border_color=a855f7&title_color=a855f7&icon_color=a855f7)](https://github.com/enzocipher/Keylogger_With_Rust)
+[![minimum_path_finder](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=enzocipher&repo=minimum_path_finder&theme=github_dark&border_color=a855f7&title_color=a855f7&icon_color=a855f7)](https://github.com/enzocipher/minimum_path_finder)
+[![Keylogger_With_Rust](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=enzocipher&repo=Keylogger_With_Rust&theme=github_dark&border_color=a855f7&title_color=a855f7&icon_color=a855f7)](https://github.com/enzocipher/Keylogger_With_Rust)
 
 </div>
 
@@ -87,9 +88,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=enzocipher&theme=dark&border=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&locale=es)](https://git.io/streak-stats)
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=enzocipher&show_icons=true&theme=github_dark&border_color=a855f7&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&hide_border=false&count_private=true&locale=es)
+![Estadísticas de GitHub](https://github-readme-stats-salesp07.vercel.app/api?username=enzocipher&show_icons=true&theme=github_dark&border_color=a855f7&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&hide_border=false&count_private=true&locale=es)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=enzocipher&layout=compact&theme=github_dark&border_color=a855f7&title_color=a855f7&text_color=c9d1d9&hide_border=false&locale=es)
+![Lenguajes más usados](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=enzocipher&layout=compact&theme=github_dark&border_color=a855f7&title_color=a855f7&text_color=c9d1d9&hide_border=false&locale=es)
 
 </div>
 
