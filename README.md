@@ -86,8 +86,6 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=enzocipher&theme=dark&border=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&locale=es)](https://git.io/streak-stats)
-
 ![Estadísticas de GitHub](https://github-readme-stats-salesp07.vercel.app/api?username=enzocipher&show_icons=true&theme=github_dark&border_color=a855f7&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&hide_border=false&count_private=true&locale=es)
 
 ![Lenguajes más usados](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=enzocipher&layout=compact&theme=github_dark&border_color=a855f7&title_color=a855f7&text_color=c9d1d9&hide_border=false&locale=es)
